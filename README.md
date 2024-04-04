@@ -5,7 +5,7 @@ Files, programs and lists developed throughout the 2024.1 semester of the Comput
 ## Lists 📄
 
 - [x] [List 1 - 26/03/2024](./lists/lista-de-exercicios-01.pdf);
-- [ ] [List 2 - 04/04/2024](./lists/lista-de-exercicios-02.pdf);
+- [x] [List 2 - 04/04/2024](./lists/lista-de-exercicios-02.pdf);
 - [x] [List 3 - 02/04/2024](./lists/lista-de-exercicios-03.pdf);
 - [ ] [List 4 - dd/mm/yyyy](./lists/lista-de-exercicios-04.pdf);
 - [ ] [List 5 - dd/mm/yyyy](./lists/lista-de-exercicios-05.pdf);
