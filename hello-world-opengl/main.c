@@ -1,8 +1,6 @@
 #include <OpenGL/gl.h>
 #include <OpenGL/glu.h>
 
-#define GL_SILENCE_DEPRECATION 1
-
 void display(void){
     glClear(GL_COLOR_BUFFER_BIT);
 
