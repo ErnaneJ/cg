@@ -25,5 +25,5 @@ Or gcc, with the direct command below:
 
 ```bash
 cd ./folder
-cc -o main main.c -lm -lGL -lGLU -lglut && ./main
+gcc -o main main.c -lm -lGL -lGLU -lglut && ./main
 ```
